@@ -1,0 +1,11 @@
+{
+  "name": "Bloom 21",
+  "short_name": "Bloom 21",
+  "start_url": "./",
+  "display": "standalone",
+  "scope": "./",
+  "background_color": "#12121a",
+  "theme_color": "#12121a",
+  "description": "A personal 21-day self-care companion.",
+  "icons": [{ "src": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f331.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
